@@ -24,3 +24,6 @@ BFS (G, s)   //Where G is the graph and s is the source node let Q be queue.
                if w is not visited 
                         Q.enqueue( w )             //Stores w in Q to further visit its neighbour
                         mark w as visited.
+
+RESOURCE : 
+	https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/
